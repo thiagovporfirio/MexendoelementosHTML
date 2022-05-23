@@ -1,0 +1,21 @@
+
+
+html{
+    height: 100vh;
+}
+
+.pai{
+    background-color: aquamarine;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+}
+
+.filho{
+    width: 20px;
+    height: 20px;
+    background-color: gray;
+    position: absolute;
+}
+
