@@ -11,6 +11,6 @@
 
 # Autor
 
-<p>Thiago Porfirio 🚀</p>
+<p>Thiago Porfirio🚀</p>
 <br>
 <h4 align="center">Projeto finalizado ✅</h4>
